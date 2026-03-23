@@ -1,4 +1,4 @@
-# HHVS-IT-CPLD 專案總覽（不含 `HHVS-IT-CPLD.github.io`）
+# HHVS-IT-CPLD 專案
 
 以下整理各個 repo 的專案簡介與 `README.md` 連結。
 
