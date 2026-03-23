@@ -1,6 +1,6 @@
 # 114-2 可程式邏輯設計實習
 
-以下整理各個 repo 的專案重點，並提供 `README.md` 與 Verilog 程式連結，方便快速查閱。
+以下整理各個 repo 的專案重點，並提供 `README.md` 與 Verilog 程式連結。
 
 | Repo | 專案說明 | README.md | Verilog 程式 |
 |---|---|---|---|
