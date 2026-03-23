@@ -1,6 +1,7 @@
 # 114-2 可程式邏輯設計實習
+Author:Tseng Chiang yih
 
-以下整理各個 repo 的專案重點，並提供 `README.md` 與 Verilog 程式連結。
+下整理各個 repo 的重點，請同學先參閱 `電路說明README.md` ，再行撰寫 Verilog 程式(如連結)。
 
 | Repo | 專案說明 | README.md | Verilog 程式 |
 |---|---|---|---|
